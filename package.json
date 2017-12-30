@@ -1,0 +1,27 @@
+{
+  "name": "ccxt-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bumbeishvili/ccxt-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bumbeishvili/ccxt-testing/issues"
+  },
+  "homepage": "https://github.com/bumbeishvili/ccxt-testing#readme",
+  "dependencies": {
+    "ansicolor": "^1.1.71",
+    "as-table": "^1.0.31",
+    "asciichart": "^1.5.7",
+    "ccxt": "^1.10.521",
+    "express": "^4.16.2",
+    "ololog": "^1.1.83"
+  }
+}
